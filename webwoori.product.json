@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "summary": "웹우리 스토어 GitHub 연동 테스트 상품",
+  "body": "## 소개\n\n이 저장소는 웹우리 스토어의 GitHub 푸시 자동 갱신을 검증하기 위한 것입니다.\n\n- 코드는 없고 상품 메타데이터만 있습니다.",
+  "version": "1.0.0",
+  "releaseNotes": "첫 등록",
+  "demoUrl": "https://webwoori.com/store"
+}
